@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+   background-color: black; 
+   height: 50px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 16pt;
+    padding: 40px;
+}
